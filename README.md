@@ -22,21 +22,19 @@ bower install --save discovery-agent
 
 ## Introduction
 
-During the last years, industrials have been increasingly attracted by the Internet of Things market and its potential value in the next few years. From wearables to smart cities passing by the smart home, the IoT market has been growing at an important pace with millions of IoT devices sold in just 2015.
+During the last years, industrials have been increasingly attracted by the Internet of Things market and its potential value in the next few years. From wearables to smart cities passing by the smart home, the IoT market has been growing at an important pace with millions of devices sold in 2015.
 
-With the avent of the IoT, people are now interacting with dozens of devices every day such as light bulbs, security cameras, smart watches or connected door locks. At the center of this ecosystem is the smartphone which is considered as the control point by which you are meant to interact with your connected world. However, due to the amount of different companies manufacturing these *things*, there are sometimes as many protocols used to communicate with an ecosystem, and even sometimes different protocols for communicating with different devices manufactured by the same company.
+With the avent of the IoT, people are interacting with different types of devices on a daily basis such as light bulbs, security cameras, smart watches or connected door locks. At the center of this ecosystem is the smartphone which is considered as the control point by which they interact with their connected world. However, due to the amount of different companies manufacturing these so called *things*, there are sometimes as many protocols used to communicate with an ecosystem, and sometimes even different protocols for communicating with different devices manufactured by the same company.
 
 ## A heterogenous environment
 
 This heterogeneity of protocols becomes a real challenge for the development and the adoption of connected objects by people, but also for the development of use-cases making the whole point of the Internet of Things interesting and truely worth it.
 
-In the old days, when people wanted to equip their house with so called smart devices, they had to request a specialized company to install a whole bunch of expensive equipment, sometimes involving heavy modification of the house itself. They would usually select a *pack* of services to install and the same manufacturer managed to provide and install it.
+In the old days, when people wanted to equip their house with this kind of devices, they had to request a specialized company to install a whole bunch of expensive equipment, sometimes involving heavy modification of the house itself. They would usually select a *pack* of services to install and the same manufacturer managed to provide and install them.
 
-Today, the business model associated with the smart house has tremendously changed in the sense that you can know buy such devices at the supermarket for a reasonable price, and you can buy them *separately*, meaning that you can perfectly buy a connected light bulb from one manufacturer and second one from another manufacturer.
+Today, the business model associated with the smart house has changed in the sense that you can know buy such devices at the supermarket for a reasonable price, and you can buy them *separately*, meaning that you can perfectly buy a light bulb from one manufacturer and another from à different manufacturer.
 
 The problem arises when you want to control them and get a unified view of your home status. Because these devices are provided by two different manufacturers, they are probably not talking the same language, and they do not know each other. This makes it difficult to efficiently control them, probably requiring you to switch between different applications on your smartphone. Imagine that you want to change the dimming of your living room and have light bulbs bought from two or even three different companies, would you like to switch between as many applications with as many different user experiences and ways of doing things to do so ?
-
-Companies do compete with each others, and this competition is usually good for customers, however in this field, it can cause various problems putting its adoption at risk.
 
 ## Standards, oh standards !
 
